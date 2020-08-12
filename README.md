@@ -1,2 +1,5 @@
-# restCI</br>
-Tutorial : https://medium.com/@erthru/membuat-restful-api-menggunakan-framework-codeigniter-3-f350755b1274
+Microservice CI</br>
+
+ Download
+import database
+access 'http://localhost/restCI-master/index.php/person/login_login
